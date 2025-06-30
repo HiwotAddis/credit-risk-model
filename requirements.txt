@@ -5,3 +5,7 @@ numpy
 matplotlib
 seaborn
 pytest
+fastapi
+uvicorn
+pydantic
+flake8

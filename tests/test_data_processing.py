@@ -5,7 +5,6 @@ from src.utils import get_classification_metrics
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
 
-
 def test_get_classification_metrics():
     y_true = [1, 0, 1, 1, 0]
     y_pred = [1, 0, 0, 1, 0]

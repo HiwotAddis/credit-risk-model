@@ -9,9 +9,11 @@ app = FastAPI()
 model_uri = "models:/credit-risk-model/Production"  # make sure you registered it
 model = mlflow.pyfunc.load_model(model_uri)
 
+
 @app.get("/")
 def read_root():
     return {"message": "Credit Risk Scoring API is live!"}
+
 
 @app.post("/predict", response_model=PredictionResponse)
 def predict_risk(data: CustomerFeatures):

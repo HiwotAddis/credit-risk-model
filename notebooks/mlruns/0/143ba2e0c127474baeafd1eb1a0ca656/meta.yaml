@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/addis/OneDrive/Documents/clone/cnew/credit-risk-model/notebooks/mlruns/0/143ba2e0c127474baeafd1eb1a0ca656/artifacts
+end_time: 1751303861599
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 143ba2e0c127474baeafd1eb1a0ca656
+run_name: RF-v1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751303807432
+status: 3
+tags: []
+user_id: addis

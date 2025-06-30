@@ -1,6 +1,7 @@
-seaborn
-pandas
-matplotlib
-numpy
 scikit-learn
-scipy
+mlflow
+pandas
+numpy
+matplotlib
+seaborn
+pytest

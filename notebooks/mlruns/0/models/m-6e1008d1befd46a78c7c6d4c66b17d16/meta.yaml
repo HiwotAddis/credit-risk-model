@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/addis/OneDrive/Documents/clone/cnew/credit-risk-model/notebooks/mlruns/0/models/m-6e1008d1befd46a78c7c6d4c66b17d16/artifacts
+creation_timestamp: 1751303852109
+experiment_id: '0'
+last_updated_timestamp: 1751303861553
+model_id: m-6e1008d1befd46a78c7c6d4c66b17d16
+model_type: null
+name: random_forest_model
+source_run_id: 143ba2e0c127474baeafd1eb1a0ca656
+status: 2
+status_message: null

@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/addis/OneDrive/Documents/clone/cnew/credit-risk-model/notebooks/mlruns/0/35892bd73fd24ed2a5340f4d1fe6d3e8/artifacts
+end_time: 1751303849157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 35892bd73fd24ed2a5340f4d1fe6d3e8
+run_name: loud-grouse-368
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751303807432
+status: 3
+tags: []
+user_id: addis

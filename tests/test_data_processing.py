@@ -1,9 +1,9 @@
 import sys
 import os
+from src.utils import get_classification_metrics
 
 sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), "..")))
 
-from src.utils import get_classification_metrics
 
 
 def test_get_classification_metrics():

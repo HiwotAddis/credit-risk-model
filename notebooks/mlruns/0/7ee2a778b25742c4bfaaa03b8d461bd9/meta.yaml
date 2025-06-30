@@ -1,0 +1,14 @@
+artifact_uri: file:///c:/Users/addis/OneDrive/Documents/clone/cnew/credit-risk-model/notebooks/mlruns/0/7ee2a778b25742c4bfaaa03b8d461bd9/artifacts
+end_time: 1751303849157
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7ee2a778b25742c4bfaaa03b8d461bd9
+run_name: mysterious-croc-133
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1751303807432
+status: 3
+tags: []
+user_id: addis

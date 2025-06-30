@@ -1,0 +1,18 @@
+digest: 7988f980
+name: dataset
+profile: '{"num_rows": 66963, "num_elements": 1004445}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "TransactionId", "required":
+  true}, {"type": "string", "name": "BatchId", "required": true}, {"type": "string",
+  "name": "AccountId", "required": true}, {"type": "string", "name": "SubscriptionId",
+  "required": true}, {"type": "string", "name": "CurrencyCode", "required": true},
+  {"type": "long", "name": "CountryCode", "required": true}, {"type": "string", "name":
+  "ProviderId", "required": true}, {"type": "string", "name": "ProductId", "required":
+  true}, {"type": "string", "name": "ProductCategory", "required": true}, {"type":
+  "string", "name": "ChannelId", "required": true}, {"type": "double", "name": "Amount",
+  "required": true}, {"type": "long", "name": "Value", "required": true}, {"type":
+  "string", "name": "TransactionStartTime", "required": true}, {"type": "long", "name":
+  "PricingStrategy", "required": true}, {"type": "long", "name": "FraudResult", "required":
+  true}]}'
+source: '{"tags": {"mlflow.user": "addis", "mlflow.source.name": "c:\\Users\\addis\\miniconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code

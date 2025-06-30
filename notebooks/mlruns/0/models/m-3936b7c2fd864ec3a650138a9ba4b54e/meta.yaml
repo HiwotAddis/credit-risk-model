@@ -1,0 +1,10 @@
+artifact_location: file:///c:/Users/addis/OneDrive/Documents/clone/cnew/credit-risk-model/notebooks/mlruns/0/models/m-3936b7c2fd864ec3a650138a9ba4b54e/artifacts
+creation_timestamp: 1751303823884
+experiment_id: '0'
+last_updated_timestamp: 1751303829225
+model_id: m-3936b7c2fd864ec3a650138a9ba4b54e
+model_type: null
+name: model
+source_run_id: 143ba2e0c127474baeafd1eb1a0ca656
+status: 2
+status_message: null

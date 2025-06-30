@@ -1,0 +1,10 @@
+digest: b2a520c3
+name: dataset
+profile: '{"num_rows": 28699, "num_elements": 143495}'
+schema: '{"mlflow_colspec": [{"type": "long", "name": "CountryCode", "required": true},
+  {"type": "double", "name": "Amount", "required": true}, {"type": "long", "name":
+  "Value", "required": true}, {"type": "long", "name": "PricingStrategy", "required":
+  true}, {"type": "long", "name": "FraudResult", "required": true}]}'
+source: '{"tags": {"mlflow.user": "addis", "mlflow.source.name": "c:\\Users\\addis\\miniconda3\\Lib\\site-packages\\ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
